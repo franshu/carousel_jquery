@@ -21,7 +21,7 @@ h1{
 #carousel {
 	width: 600px;
 	height: 300px;
-	/*overflow: hidden; propiedad que es para delimitar la foto*/
+	overflow: hidden; /* propiedad que es para delimitar la foto*/
 }
 
 #carousel ul{
